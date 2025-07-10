@@ -21,9 +21,11 @@ After sweeping, the servos are set and held at a fixed angle of 90°.
 # Circuit Design
 This project was designed and simulated using Tinkercad Circuits.
 
+Image of the Circuit Setup:
+
 <img width="804" height="461" alt="pic" src="https://github.com/user-attachments/assets/7a1bd2be-9b24-47b2-9f98-0220f60b36f4" />
 
-
+Video Demonstration:
 
 https://github.com/user-attachments/assets/2d157df9-abd0-4c40-99fe-1c1b4646a792
 
