@@ -92,10 +92,10 @@ Phase 1 → Phase 2 → Phase 3 → Phase 4 → Phase 1...
 
 
 ! Limitations of 4 Servo Setup:
-Less smooth walking
-Harder to balance
-No dynamic foot control (no ankle)
-Best for slow walking or controlled surfaces
+- Less smooth walking
+- Harder to balance
+- No dynamic foot control (no ankle)
+- Best for slow walking or controlled surfaces
 
 
 
