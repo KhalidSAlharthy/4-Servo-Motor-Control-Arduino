@@ -32,6 +32,7 @@ https://github.com/user-attachments/assets/2d157df9-abd0-4c40-99fe-1c1b4646a792
 
 
 You can view the circuit design on Tinkercad using this link:
+https://www.tinkercad.com/things/0Ei99pBVM6O-smooth-wluff
 
 # An algorithm for how the walking motion will be executed in the humanoid robot.
 
