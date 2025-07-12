@@ -64,6 +64,7 @@ Phase 2: Lift Left Leg, Step Forward. Shift imaginary weight to right leg (balan
 | S2    | 120°  | Left knee bends (lift foot) |
 | S3    | 90°   | Right hip stays neutral     |
 | S4    | 90°   | Right knee remains straight |
+
 Wait ~200–400 ms for motion
 
 Phase 3: Place Left Foot, Shift Forward. Straighten left leg to touch ground.
@@ -73,7 +74,9 @@ Phase 3: Place Left Foot, Shift Forward. Straighten left leg to touch ground.
 | S2    | 90°   | Left knee straightens  |
 | S3    | 90°   | Right hip neutral      |
 | S4    | 90°   | Right knee straight    |
+
 Wait ~200 ms
+
 Phase 4: Lift Right Leg, Step Forward. Shift weight to left leg (new support), Move right leg forward.
 | Servo | Angle | Description                  |
 | ----- | ----- | ---------------------------- |
@@ -81,6 +84,7 @@ Phase 4: Lift Right Leg, Step Forward. Shift weight to left leg (new support), M
 | S2    | 90°   | Left knee straight           |
 | S3    | 120°  | Right hip swings leg forward |
 | S4    | 120°  | Right knee bends             |
+
 Wait ~200–400 ms
 
 Loop Back to Phase 1 Repeat the cycle:
